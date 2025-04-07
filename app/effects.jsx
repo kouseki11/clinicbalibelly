@@ -20,7 +20,7 @@ export default function EffectsSection() {
             <picture>
               <source
                 data-srcset="/img/index/img-infusionpeople.png"
-                srcset="/img/index/img-infusionpeople.png"
+                srcSet="/img/index/img-infusionpeople.png"
                 type="image/webp"
               />
               <img

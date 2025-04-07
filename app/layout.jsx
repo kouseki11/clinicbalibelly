@@ -1,5 +1,6 @@
 import './globals.css'
 import { CartProvider } from './context/CartContext'
+import AOSWrapper from './components/AOSWrapper'
 
 export const metadata = {
   title: 'clinicbalibelly',
@@ -28,7 +29,9 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         <CartProvider>
-          {children}
+          <AOSWrapper>
+            {children}
+          </AOSWrapper>
         </CartProvider>
 
         {/* JS Scripts */}
