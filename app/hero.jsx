@@ -11,7 +11,7 @@ export default function HeroSection() {
                 Boost your energy and health with IV therapy delivered right to
                 your door—quick, easy, and effective!
               </p>
-              <a className="hero_header-btn btn" href="#">Book Now</a>
+              <a className="hero_header-btn btn" href="https://wa.me/62895320066260">Book Now</a>
             </div>
             <div className="hero_contacts">
               <span className="hero_contacts-data d-flex flex-column flex-sm-row align-items-center">
