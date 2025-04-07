@@ -57,7 +57,7 @@ export default function CartOffcanvas({ product }) {
             <div className="cartOffcanvas_body-total d-flex justify-content-between align-items-center">
               <span className="cartTotal">{product.price}</span>
             </div>
-            <a className="cartOffcanvas_body-btn btn" href="https://wa.me/6283811972903">
+            <a className="cartOffcanvas_body-btn btn" href="https://wa.me/62895320066260">
               Book Now
             </a>
           </div>
