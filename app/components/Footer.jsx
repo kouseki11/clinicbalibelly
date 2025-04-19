@@ -9,9 +9,8 @@ export default function Footer() {
               </a>
               <div className="footer_main-about_wrapper">
                 <p className="text">
-                  Boost your energy and health with IV therapy delivered right to
-                  your door—quick, easy, and effective! aliquam eleifend mi in
-                  nulla posuere sollicitudin
+                  Claim back your energy and improve your health with our IV therapy, 
+                  delivered right to your door—quick, simple, effective, and hassle-free
                 </p>
               </div>
             </div>

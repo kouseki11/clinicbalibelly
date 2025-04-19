@@ -5,11 +5,10 @@ export default function HeroSection() {
           <div className="hero_about col-xl-6">
             <div className="hero_header">
               <h1 className="hero_header-title">
-                Energize your body, rejuvenate your well-being
+                Recharge and rejuvenate your energy!
               </h1>
               <p className="hero_header-text">
-                Boost your energy and health with IV therapy delivered right to
-                your door—quick, easy, and effective!
+                Claim back your energy and improve your health with our IV therapy, delivered right to your door—quick, simple, effective, and hassle-free
               </p>
               <a className="hero_header-btn btn" href="https://wa.me/62895320066260">Book Now</a>
             </div>

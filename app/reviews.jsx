@@ -65,9 +65,8 @@ export default function ReviewsSection() {
         <div className="reviews_header">
           <h2 className="reviews_header-title">What Our Clients Are Saying</h2>
           <p className="reviews_header-text">
-            See what our satisfied clients are saying! Real stories, real
-            results—discover how our services have made a difference in their
-            lives.
+            Don't just take our word, listen to what our satisfied customers are saying! Real experiences, 
+            real results—see how our services made their travel experiences even better!
           </p>
         </div>
         <div className="reviews_slider swiper">

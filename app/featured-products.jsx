@@ -7,7 +7,7 @@ const products = [
   {
     id: 1,
     title: "Bali Belly",
-    desc: "IV therapy that combines fluids, electrolytes, vitamins, and occasionally medications for enhanced wellness.",
+    desc: "IV therapy that combines supplements such as fluids, electrolytes, vitamins, and if needed, medications for enhanced recovery.",
     price: "IDR 1,690,000",
     image: "/img/index/infuss1.jpeg",
     duration: "45 minutes",
@@ -24,7 +24,7 @@ const products = [
   {
     id: 2,
     title: "Hangover Infusion",
-    desc: "Experience fast and effective hangover relief with our revitalizing IV hydration therapy.",
+    desc: "Your fast and effective hangover relief with an effective blend of revitalizing IV Hydration therapy",
     price: "IDR 1,550,000",
     image: "/img/index/infuss2.jpeg",
     duration: "40 minutes",
@@ -39,7 +39,7 @@ const products = [
   {
     id: 3,
     title: "Standard Immune-Booster",
-    desc: "A powerful blend of fluids, vitamins, and minerals designed to boost and strengthen your immune system.",
+    desc: "Getting you covered with the basics of fluids, vitamins and minerals to get kick start your immune system.",
     price: "IDR 800,000",
     image: "/img/index/infuss3.jpeg",
     duration: "30 minutes",
@@ -50,7 +50,7 @@ const products = [
   {
     id: 4,
     title: "Essential Immune-Booster IV",
-    desc: "A blend of fluids, vitamins, and minerals crafted to enhance and strengthen your body's health.",
+    desc: "A more comprehensive mix of fluids, vitamins and minerals designed to get you feeling even better and giving your immune system some much needed reinforcements.",
     price: "IDR 1,200,000",
     image: "/img/index/infuss4.jpeg",
     duration: "35 minutes",
@@ -61,7 +61,7 @@ const products = [
   {
     id: 5,
     title: "Core Immune-Booster IV",
-    desc: "A carefully balanced mix of fluids, vitamins, minerals, and antioxidants designed to boost and support your immune system.",
+    desc: "Balancing off your immune system with a large boost of fluids, vitamins, minerals and antioxidants to revamp your immunity and fight off fatigue anytime.",
     price: "IDR 1,650,000",
     image: "/img/index/infuss5.jpeg",
     duration: "50 minutes",
@@ -72,7 +72,7 @@ const products = [
   {
     id: 6,
     title: "Prime Immune-Booster IV",
-    desc: "A powerful blend of fluids, vitamins, minerals, antioxidants, and zinc to help fortify and strengthen your immune system.",
+    desc: "Fighting off those rough and tough fatigue days with a powerful blend of fluids, vitamins, minerals, antioxidants and zinc to fortify and supercharge your immune system, any symptoms would have no choice but to go away!",
     price: "IDR 1,990,000",
     image: "/img/index/infuss6.jpeg",
     duration: "60 minutes",
